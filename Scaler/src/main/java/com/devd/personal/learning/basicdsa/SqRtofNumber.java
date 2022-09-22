@@ -1,3 +1,5 @@
+package com.devd.personal.learning.basicdsa;
+
 import java.util.Scanner;
 
 public class SqRtofNumber {

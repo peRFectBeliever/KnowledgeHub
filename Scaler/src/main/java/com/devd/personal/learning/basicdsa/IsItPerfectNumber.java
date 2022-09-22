@@ -1,4 +1,5 @@
-import java.lang.*;
+package com.devd.personal.learning.basicdsa;
+
 import java.util.*;
 
 /*
